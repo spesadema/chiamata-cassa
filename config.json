@@ -1,6 +1,6 @@
 {
   "title": "Chiamata da cassa 2",
-  "volantino_pdf_url": "",
+  "volantino_pdf_url": "https://spesadema.github.io/chiamata-cassa/volantino.pdf",
   "tts_rate": 0.92,
   "tts_pitch": 1.06,
   "left_buttons": [
