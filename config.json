@@ -16,74 +16,81 @@
     {
       "label": "Elia",
       "gender": "m",
-      "phrase": "Elia è desiderato alla cassa.",
+      "phrase": "Elia Ã¨ desiderato alla cassa.",
       "audio_file": "audio/elia.mp3"
     },
     {
       "label": "Vanessa",
       "gender": "f",
-      "phrase": "Vanessa è desiderata alla cassa.",
+      "phrase": "Vanessa Ã¨ desiderata alla cassa.",
       "audio_file": "audio/vanessa.mp3"
     },
     {
       "label": "Dora",
       "gender": "f",
-      "phrase": "Dora è desiderata alla cassa.",
+      "phrase": "Dora Ã¨ desiderata alla cassa.",
       "audio_file": "audio/dora.mp3"
     },
     {
-      "label": "Sara",
+      "label": "Rosaria",
       "gender": "f",
-      "phrase": "Sara è desiderata alla cassa.",
-      "audio_file": "audio/sara.mp3"
+      "phrase": "Rosaria Ã¨ desiderata alla cassa.",
+      "audio_file": "rosaria.mp3",
+      "audio_url": "https://spesadema.github.io/chiamata-cassa/rosaria.mp3"
     },
     {
       "label": "Nicoletta",
       "gender": "f",
-      "phrase": "Nicoletta è desiderata alla cassa.",
+      "phrase": "Nicoletta Ã¨ desiderata alla cassa.",
       "audio_file": "audio/nicoletta.mp3"
     }
   ],
   "right_buttons": [
     {
       "label": "Ortofrutta",
-      "phrase": "Un addetto è desiderato al reparto Ortofrutta.",
+      "phrase": "Un addetto Ã¨ desiderato al reparto Ortofrutta.",
       "audio_file": "audio/ortofrutta.m4a"
     },
     {
       "label": "Telefono",
-      "phrase": "Un addetto è pregato di rispondere al telefono.",
+      "phrase": "Un addetto Ã¨ pregato di rispondere al telefono.",
       "audio_file": "audio/telefono.mp3"
     },
     {
       "label": "Antonio",
       "gender": "m",
-      "phrase": "Antonio è desiderato alla cassa.",
+      "phrase": "Antonio Ã¨ desiderato alla cassa.",
       "audio_file": "audio/antonio.mp3"
     },
     {
       "label": "Marianna",
       "gender": "f",
-      "phrase": "Marianna è desiderata alla cassa.",
+      "phrase": "Marianna Ã¨ desiderata alla cassa.",
       "audio_file": "audio/marianna.mp3"
     },
     {
       "label": "Giusy",
       "gender": "f",
-      "phrase": "Giusy è desiderata alla cassa.",
+      "phrase": "Giusy Ã¨ desiderata alla cassa.",
       "audio_file": "audio/giusy.mp3"
     },
     {
       "label": "Marco",
       "gender": "m",
-      "phrase": "Marco è desiderato alla cassa.",
+      "phrase": "Marco Ã¨ desiderato alla cassa.",
       "audio_file": "audio/marco.mp3"
     },
     {
       "label": "Samantha",
       "gender": "f",
-      "phrase": "Samantha è desiderata alla cassa.",
+      "phrase": "Samantha Ã¨ desiderata alla cassa.",
       "audio_file": "audio/samantha.mp3"
+    },
+    {
+      "label": "Chiusura",
+      "phrase": "Il supermercato Ã¨ in chiusura, preghiamo i clienti di avvicinarsi alle casse. Grazie.",
+      "audio_file": "casse.mp3",
+      "audio_url": "https://spesadema.github.io/chiamata-cassa/casse.mp3"
     }
   ]
 }
